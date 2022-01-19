@@ -1,0 +1,60 @@
+.shift 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin: auto;
+    border: 3px solid green; 
+    padding: 10px;
+}
+
+.shift_li 
+{
+    /* display: block; */
+    margin-left: 620px;
+    /* margin-right: auto; */
+    /* width: 50%; */
+    /* margin: auto; */
+    /* border: 3px solid green;  */
+    /* padding: 10px; */    
+}
+
+h1 
+{
+    text-align: center;
+}
+
+.description 
+{
+    text-align: center;
+    margin-left: 350px; 
+    margin-right: 350px;
+    font-size: 150%;
+}
+
+.enlarge 
+{
+    margin-left: 350px; 
+    margin-right: 350px;
+    font-size: 150%;
+}
+
+table, td, th 
+{
+    border: 1px solid black;
+}
+  
+table 
+{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+tr:nth-child(even) {background-color: #7f87a8;}
+
+th 
+{
+    background-color: #033f29;
+    color: white;
+}
