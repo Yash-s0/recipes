@@ -11,13 +11,7 @@
 
 .shift_li 
 {
-    /* display: block; */
-    margin-left: 620px;
-    /* margin-right: auto; */
-    /* width: 50%; */
-    /* margin: auto; */
-    /* border: 3px solid green;  */
-    /* padding: 10px; */    
+    text-align: center;
 }
 
 h1 
@@ -37,6 +31,7 @@ h1
 {
     margin-left: 350px; 
     margin-right: 350px;
+    /* text-align: center; */
     font-size: 150%;
 }
 
@@ -57,4 +52,12 @@ th
 {
     background-color: #033f29;
     color: white;
+}
+
+.steps_adjust
+{
+    margin-left: 300px;
+    margin-right: 300px;
+    /* text-align: center; */
+    font-size: 150%;
 }
